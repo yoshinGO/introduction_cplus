@@ -1,0 +1,7 @@
+http://marupeke296.com/IKDADV_PI_CPP2.html
+
+//g++ -c Account.cpp -o Account.o
+//g++ -c AccountTest.cpp -o AccountTest.o
+//この２行で分割コンパイルをして二つのオブジェクトファイルを作成する
+//g++ Account.o AccountTest.o
+//そして二つのオブジェクトファイルをリンク(同時にコンパイル？？)するとa.outという実行ファイルが作成されるため、その実行ファイルを実行すると理想の結果になる？？？？？？？？？？
